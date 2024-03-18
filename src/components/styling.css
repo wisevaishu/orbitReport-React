@@ -19,6 +19,7 @@ button {
 
 .flex-container {
   display: flex;
+  flex-direction: column;
   justify-content: center;
 }
 
@@ -57,4 +58,5 @@ h1 {
   background: #5c94ce;
   color: white;
   font-size: 60px;
+  width: 100%;
 }
